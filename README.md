@@ -1,7 +1,7 @@
 # About me
 
 
-**Liu8Can/Liu8Can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**有朋自远方来不亦乐乎.欢迎访问我的主页.
 
 
 - 🔭 I’m currently working on a mobile application project. I'm focused on improving its user interface design to make it more intuitive and user - friendly. I'm also working on optimizing the app's performance to reduce loading times.
