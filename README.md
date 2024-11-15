@@ -10,16 +10,17 @@
 
 ---
 
-### 👋 你好！我是 Liucan，一名热爱技术的开发者！
+### 👋 Hello! I'm Daniel Song (LiuCan), a passionate tech enthusiast 和 law major at NUIST!
 
-- 🔭 **我正在努力:** 开发一款移动应用，专注于提升用户界面设计的直观性和应用性能。我的目标是让用户体验更加流畅、加载时间更短。
-- 🌱 **我目前在学习:** Python 编程语言，深入探索诸如 `NumPy` 和 `Pandas` 的数据分析库，以及使用 `Flask` 和 `Django` 框架进行Web开发。
-- 👯 **希望能合作:** 参与人工智能相关的开源项目，特别是在自然语言处理和计算机视觉方面，希望通过合作带来新视角、学习新技术。
-- 🤔 **需要帮助:** 高级机器学习算法，如神经网络架构和梯度下降优化，如果你有相关经验，欢迎来讨论！
-- 💬 **问我吧:** 移动应用开发、Python 编程，或我在学习新技术方面的经历！
-- 📫 **联系我:** 通过邮箱 [liucan01234@gmail.com](mailto:liucan01234@gmail.com) 找到我。
-- 😄 **称呼:** Liucan
-- ⚡ **有趣的经历:** 曾在48小时内与团队开发出一款基本的电子商务应用，参加了一次极具挑战的黑客松！
+- 🔭 **Currently working on:** Developing a mobile app with a focus on improving the user interface for better intuitiveness and optimizing the app's performance to reduce loading times.
+- 🌱 **Learning:** Diving deep into Python, with a focus on libraries like `NumPy` and `Pandas` for data analysis. I'm also exploring web development using frameworks like `Flask` and `Django`.
+- 👯 **Looking for collaboration on:** Open-source AI projects, especially in areas like natural language processing and computer vision. I believe collaborating can bring fresh perspectives and help me acquire new techniques.
+- 🤔 **Seeking help with:** Advanced machine learning algorithms, such as neural network architectures and gradient descent optimization. If you have insights, I'd love to discuss!
+- 💬 **Ask me about:** Mobile app development, Python programming, or my experiences in exploring new technologies.
+- 📫 **Reach me at:** You can email me at [liucan01234@gmail.com](mailto:liucan01234@gmail.com).
+- 😄 **Pronouns:** Liucan
+- ⚡ **Fun fact:** I once participated in a hackathon where my team managed to build a basic e-commerce app in just 48 hours! It was an intense and exciting challenge!
+
 
 ---
 
