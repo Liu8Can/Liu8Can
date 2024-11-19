@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 Hello! I'm Daniel Song (LiuCan), a passionate tech enthusiast 和 law major at NUIST!
+### 👋 Hello! I'm Daniel Song (LiuCan), a passionate tech enthusiast and law major at NUIST!
 
 - 🔭 **Currently working on:** Developing a mobile app with a focus on improving the user interface for better intuitiveness and optimizing the app's performance to reduce loading times.
 - 🌱 **Learning:** Diving deep into Python, with a focus on libraries like `NumPy` and `Pandas` for data analysis. I'm also exploring web development using frameworks like `Flask` and `Django`.
