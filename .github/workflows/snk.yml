@@ -1,3 +1,32 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
-            
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    # 每天生成一次
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出仓库内容
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 生成贪吃蛇图像
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 上传生成的文件到 output 分支
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Generated GitHub contribution grid snake"
+          branch: output
