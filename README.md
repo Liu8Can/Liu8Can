@@ -33,50 +33,33 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Liu8Can&show_icons=true&theme=radical" alt="Daniel Song's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Liu8Can&show_icons=true&theme=radical" alt="Daniel Song's GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Liu8Can&theme=radical" alt="Daniel Song's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liu8Can&theme=radical" alt="Daniel Song's GitHub Streak" />
 </td>
 </tr>
 </table>
 
-### 🐍 **Contribution Snake**  
+---
 
-![Snake animation](https://github.com/Liu8Can/Liu8Can/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="dist/github-snake-dark.svg" />
+</picture>
 
 ---
 
-### 🌐 **Some Cool Skills**  
+### 🌐 **Some Cool Skills**
 
-- Proficient with **Python**, **JavaScript**, and **Java**.  
-- Skilled in using **GitHub Actions** for CI/CD pipelines.  
-- Experienced with **Hexo** for static blog generation and **Markdown** for documentation.  
-- Interested in **network security**, particularly in maintaining privacy and anonymity.  
-
----
-
-### 💡 **Random Dev Quote**  
-
-> _"Programming is not just about writing code; it’s about turning ideas into reality."_ – **Liucan**  
-
----
-
-### 🌟 **Fun Add-ons**  
-
-- 📅 **Today’s Date:**  
-   `{{动态生成当前日期}}`  
-
-- ⏳ **Coding Activity Timer:**  
-   Track how many hours I’ve been active on coding today! (Using tools like Wakatime 📈)
-
----
-
-### 🌈 **Let's Connect**  
-
-- 🌏 **Blog:** [My Hexo Blog](https://github.com/Liu8Can/ASCII-generator)  
-- 🐦 **Twitter:** [@LiuCan](https://twitter.com)  
-- 💼 **LinkedIn:** [Daniel Song](https://www.linkedin.com/in/danielsong)
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Hexo](https://img.shields.io/badge/Hexo-000000?style=for-the-badge&logo=hexo&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-3a3a3a?style=for-the-badge&logo=security&logoColor=white)
 
