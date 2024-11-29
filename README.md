@@ -4,6 +4,12 @@
 
 ---
 
+![GitHub followers](https://img.shields.io/github/followers/Liu8Can?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Liu8Can?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Liu8Can&color=blueviolet)
+
+---
+
 ### 👋 Hello! I'm **Daniel Song (LiuCan)**, a passionate tech enthusiast and law major at **NUIST**!  
 
 ---
