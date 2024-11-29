@@ -60,12 +60,17 @@
 ---
 
 ### 🌐 **Some Cool Skills**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-green?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![NumPy](https://img.shields.io/badge/NumPy-yellow?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Hexo](https://img.shields.io/badge/Hexo-000000?style=for-the-badge&logo=hexo&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network%20Security-3a3a3a?style=for-the-badge&logo=security&logoColor=white)
+![Hexo](https://img.shields.io/badge/Hexo-blue?style=for-the-badge&logo=hexo&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-red?style=for-the-badge&logo=security&logoColor=white)
 
