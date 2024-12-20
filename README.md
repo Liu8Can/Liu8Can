@@ -41,9 +41,7 @@
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=Liu8Can&show_icons=true&theme=radical" alt="Daniel Song's GitHub Stats" />
 </td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liu8Can&theme=radical" alt="Daniel Song's GitHub Streak" />
-</td>
+
 </tr>
 </table>
 
