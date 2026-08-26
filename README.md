@@ -1,7 +1,7 @@
-<!-- CYBER PROFILE // Liu8Can -->
+<!-- CYBER PROFILE // DanielSong -->
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/cyber-header.svg" alt="liucan / 沧浪同学" />
+  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/cyber-header.svg" alt="DanielSong / 沧浪同学" />
 </p>
 
 <h2 align="center">生成式人工智能是21世纪的珍妮机</h2>
@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/liucan-terminal.svg" alt="LIUCAN Cyber Terminal" />
+  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/danielsong-terminal.svg" alt="DanielSong Cyber Terminal" />
 </p>
 
 <br/>
