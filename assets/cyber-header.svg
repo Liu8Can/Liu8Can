@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="liucan / 沧浪同学">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="48%" stop-color="#17154b"/>
+      <stop offset="100%" stop-color="#35113f"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#6D5DFC"/>
+      <stop offset="100%" stop-color="#FF4ECD"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <g opacity="0.22" stroke="#6D5DFC" stroke-width="1">
+    <path d="M0 35H1200M0 70H1200M0 105H1200M0 140H1200M0 175H1200M0 210H1200"/>
+    <path d="M80 0V260M160 0V260M240 0V260M320 0V260M400 0V260M480 0V260M560 0V260M640 0V260M720 0V260M800 0V260M880 0V260M960 0V260M1040 0V260M1120 0V260"/>
+  </g>
+
+  <g fill="#00E5FF">
+    <circle cx="110" cy="54" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="265" cy="93" r="1.7"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="952" cy="60" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1084" cy="115" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#FF4ECD">
+    <circle cx="194" cy="139" r="1.7"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1008" cy="153" r="1.9"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="105" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="3" filter="url(#glow)">liucan</text>
+  <text x="600" y="148" text-anchor="middle" fill="#DCE7FF" font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="600" letter-spacing="4">沧浪同学</text>
+  <text x="600" y="186" text-anchor="middle" fill="#7DEBFF" font-family="JetBrains Mono, Consolas, monospace" font-size="15" letter-spacing="3">GENERATIVE AI · OPEN SOURCE · LEGAL TECH</text>
+
+  <path d="M0 215 C170 175, 305 255, 465 218 C640 178, 760 254, 920 214 C1045 183, 1120 195, 1200 181 L1200 260 L0 260 Z" fill="url(#wave)" opacity="0.88">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 215 C170 175,305 255,465 218 C640 178,760 254,920 214 C1045 183,1120 195,1200 181 L1200 260 L0 260 Z;
+              M0 202 C160 242,315 174,480 215 C640 253,770 182,930 220 C1055 249,1130 206,1200 215 L1200 260 L0 260 Z;
+              M0 215 C170 175,305 255,465 218 C640 178,760 254,920 214 C1045 183,1120 195,1200 181 L1200 260 L0 260 Z"/>
+  </path>
+</svg>
