@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Liu8Can&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE&custom_title=liucan%20GitHub%20Stats
+          options: username=Liu8Can&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE&custom_title=DanielSong%20GitHub%20Stats
           path: assets/github-stats-rank.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
