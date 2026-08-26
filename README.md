@@ -1,7 +1,7 @@
 <!-- CYBER PROFILE // Liu8Can -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render-khjgbm86u-liu8cans-projects.vercel.app/api?type=waving&color=0:00E5FF,50:6D5DFC,100:FF4ECD&height=250&section=header&text=liucan&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E6%B2%A7%E6%B5%AA%E5%90%8C%E5%AD%A6&descSize=24&descAlignY=55" alt="liucan / 沧浪同学" />
+  <img width="100%" src="./assets/cyber-header.svg" alt="liucan / 沧浪同学" />
 </p>
 
 <h2 align="center">生成式人工智能是21世纪的珍妮机</h2>
@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/liucan-terminal.svg" alt="LIUCAN Cyber Terminal" />
+  <img width="100%" src="./assets/liucan-terminal.svg" alt="LIUCAN Cyber Terminal" />
 </p>
 
 <br/>
@@ -51,18 +51,10 @@
 
 <br/>
 
-<h2 align="center">🏆 ACHIEVEMENT UNLOCKED</h2>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Liu8Can&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophy" />
-</p>
-
-<br/>
-
 <h2 align="center">🌃 CONTRIBUTION CITY // 3D</h2>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
 <br/>
@@ -70,12 +62,12 @@
 <h2 align="center">📡 CYBER METRICS</h2>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/metrics/metrics-overview.svg" alt="GitHub Metrics Overview" />
+  <img width="100%" src="./assets/metrics/metrics-overview.svg" alt="GitHub Metrics Overview" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/metrics/metrics-calendar.svg" alt="Isometric Contribution Calendar" />
-  <img width="49%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/metrics/metrics-lines.svg" alt="Code Change History" />
+  <img width="49%" src="./assets/metrics/metrics-calendar.svg" alt="Isometric Contribution Calendar" />
+  <img width="49%" src="./assets/metrics/metrics-lines.svg" alt="Code Change History" />
 </p>
 
 <br/>
@@ -92,9 +84,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/dist/github-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+    <img width="100%" src="./dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
   </picture>
 </p>
 
@@ -107,16 +99,14 @@
 <p align="center">
   <sub>
     OPEN SOURCE MODULES ·
-    <a href="https://github.com/kyechan99/capsule-render">capsule-render</a> ·
     <a href="https://github.com/DenverCoder1/readme-typing-svg">typing-svg</a> ·
     <a href="https://github.com/lowlighter/metrics">metrics</a> ·
     <a href="https://github.com/yoshi389111/github-profile-3d-contrib">profile-3d-contrib</a> ·
-    <a href="https://github.com/ryo-ma/github-profile-trophy">trophy</a> ·
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">activity-graph</a> ·
     <a href="https://github.com/Platane/snk">snk</a>
   </sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render-khjgbm86u-liu8cans-projects.vercel.app/api?type=waving&color=0:FF4ECD,50:6D5DFC,100:00E5FF&height=130&section=footer" alt="footer" />
+  <img width="100%" src="./assets/cyber-footer.svg" alt="footer" />
 </p>
