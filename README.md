@@ -51,6 +51,14 @@
 
 <br/>
 
+<h2 align="center">🎯 GITHUB RANK</h2>
+
+<p align="center">
+  <img width="62%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/github-stats-rank.svg" alt="GitHub Stats Rank" />
+</p>
+
+<br/>
+
 <h2 align="center">🏆 ACHIEVEMENT UNLOCKED</h2>
 
 <p align="center">
@@ -109,6 +117,7 @@
     OPEN SOURCE MODULES ·
     <a href="https://github.com/DenverCoder1/readme-typing-svg">typing-svg</a> ·
     <a href="https://github.com/lowlighter/metrics">metrics</a> ·
+    <a href="https://github.com/stats-organization/github-readme-stats-action">stats-rank</a> ·
     <a href="https://github.com/yoshi389111/github-profile-3d-contrib">profile-3d-contrib</a> ·
     <a href="https://github.com/ryo-ma/github-profile-trophy">trophy</a> ·
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">activity-graph</a> ·
