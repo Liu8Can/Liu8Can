@@ -31,9 +31,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
           config_timezone: Asia/Shanghai
 
       - name: Render isometric calendar
@@ -48,21 +45,18 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Shanghai
 
-      - name: Render coding habits
+      - name: Render code change history
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Liu8Can
-          filename: metrics-habits.svg
+          filename: metrics-lines.svg
           output_action: none
           base: ""
-          plugin_habits: yes
-          plugin_habits_from: 300
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_trim: yes
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 1
           config_timezone: Asia/Shanghai
 
       - name: Publish metrics
@@ -71,12 +65,13 @@ jobs:
           mkdir -p assets/metrics
           sudo cp /metrics_renders/metrics-overview.svg assets/metrics/metrics-overview.svg
           sudo cp /metrics_renders/metrics-calendar.svg assets/metrics/metrics-calendar.svg
-          sudo cp /metrics_renders/metrics-habits.svg assets/metrics/metrics-habits.svg
+          sudo cp /metrics_renders/metrics-lines.svg assets/metrics/metrics-lines.svg
           sudo chown -R "$USER":"$USER" assets/metrics
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/metrics
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh cyber profile metrics [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
