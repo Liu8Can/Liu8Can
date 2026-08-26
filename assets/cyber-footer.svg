@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="cyber footer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF4ECD"/>
+      <stop offset="50%" stop-color="#6D5DFC"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="#07111f"/>
+  <path d="M0 22 C180 76,320 10,500 48 C700 90,820 18,1010 52 C1100 69,1155 62,1200 50 L1200 120 L0 120 Z" fill="url(#bg)" opacity="0.9">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 22 C180 76,320 10,500 48 C700 90,820 18,1010 52 C1100 69,1155 62,1200 50 L1200 120 L0 120 Z;
+              M0 48 C170 8,330 78,510 42 C700 3,840 76,1020 39 C1100 22,1160 29,1200 37 L1200 120 L0 120 Z;
+              M0 22 C180 76,320 10,500 48 C700 90,820 18,1010 52 C1100 69,1155 62,1200 50 L1200 120 L0 120 Z"/>
+  </path>
+  <text x="600" y="97" text-anchor="middle" fill="#EAF4FF" font-family="JetBrains Mono, Consolas, monospace" font-size="13" letter-spacing="4">END OF TRANSMISSION · LIUCAN</text>
+</svg>
