@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="liucan / 沧浪同学">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="DanielSong / 沧浪同学">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#07111f"/>
@@ -34,11 +34,11 @@
     <circle cx="1008" cy="153" r="1.9"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
   </g>
 
-  <text x="600" y="105" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="3" filter="url(#glow)">liucan</text>
+  <text x="600" y="105" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="3" filter="url(#glow)">DanielSong</text>
   <text x="600" y="148" text-anchor="middle" fill="#DCE7FF" font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="600" letter-spacing="4">沧浪同学</text>
   <text x="600" y="186" text-anchor="middle" fill="#7DEBFF" font-family="JetBrains Mono, Consolas, monospace" font-size="15" letter-spacing="3">GENERATIVE AI · OPEN SOURCE · LEGAL TECH</text>
 
-  <path d="M0 215 C170 175, 305 255, 465 218 C640 178, 760 254, 920 214 C1045 183, 1120 195, 1200 181 L1200 260 L0 260 Z" fill="url(#wave)" opacity="0.88">
+  <path d="M0 215 C170 175, 305 255, 465 218 C640 178, 760 254,920 214 C1045 183,1120 195,1200 181 L1200 260 L0 260 Z" fill="url(#wave)" opacity="0.88">
     <animate attributeName="d" dur="8s" repeatCount="indefinite"
       values="M0 215 C170 175,305 255,465 218 C640 178,760 254,920 214 C1045 183,1120 195,1200 181 L1200 260 L0 260 Z;
               M0 202 C160 242,315 174,480 215 C640 253,770 182,930 220 C1055 249,1130 206,1200 215 L1200 260 L0 260 Z;
