@@ -83,7 +83,7 @@
 <h2 align="center">📈 ACTIVITY SIGNAL</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Liu8Can&theme=tokyo-night&hide_border=true&area=true&custom_title=CYBER%20ACTIVITY%20SIGNAL" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/Liu8Can/Liu8Can/main/assets/activity-graph.svg" alt="GitHub Activity Graph" />
 </p>
 
 <br/>
